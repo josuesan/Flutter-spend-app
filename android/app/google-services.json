@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671082723813",
+    "firebase_url": "https://como-gasto-flutter.firebaseio.com",
+    "project_id": "como-gasto-flutter",
+    "storage_bucket": "como-gasto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671082723813:android:854aaebe533b0b0f",
+        "android_client_info": {
+          "package_name": "com.josuesanchez.shipometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671082723813-n04p1tghbkhhv10h6nlng743ajh89ahq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkI9vXnSz_Ss7v28hvxU2dnKMarMrQ_OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671082723813-n04p1tghbkhhv10h6nlng743ajh89ahq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
